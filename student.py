@@ -1,8 +1,8 @@
-student_name = "Sinnnbbbbu"
+student_name = "Moosaa"
 
 mark1 = 85
-mark2 = 100
-mark3 = 100
+mark2 = 50
+mark3 = 50
 
 total = mark1 + mark2 + mark3
 
