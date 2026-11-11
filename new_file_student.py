@@ -1,4 +1,4 @@
-student_name = "Anu"
+student_name = "Sinnu"
 
 mark1 = 85
 mark2 = 90
@@ -24,3 +24,4 @@ print("Student Name:", student_name)
 print("Total Marks:", total)
 print("Average:", average)
 print("Grade:", grade)
+
